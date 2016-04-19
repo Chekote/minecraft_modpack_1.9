@@ -1,1 +1,2 @@
-# minecraft_modpack_1.9
+Chekote's Modpack for Minecraft 1.9
+
